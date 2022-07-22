@@ -1,0 +1,5 @@
+#!/bin/usr/env ruby
+
+require 'first/gem/mayaugusto'
+
+puts First::Gem::Mayaugusto.hi(ARGV[0])
